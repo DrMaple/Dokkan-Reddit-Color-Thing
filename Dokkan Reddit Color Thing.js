@@ -5,6 +5,8 @@
 // @author       DrMaple
 // @match        https://www.reddit.com/r/DBZDokkanBattle/*
 // @grant        none
+// @updateURL https://raw.githubusercontent.com/DrMaple/Dokkan-Reddit-Color-Thing/master/Dokkan%20Reddit%20Color%20Thing.js
+// @downloadURL https://raw.githubusercontent.com/DrMaple/Dokkan-Reddit-Color-Thing/master/Dokkan%20Reddit%20Color%20Thing.js
 // ==/UserScript==
 
 (function (window, undefined) {
