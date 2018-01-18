@@ -1,5 +1,5 @@
 // ==UserScript==
-// @name         Reddit Dokkan Color Thing
+// @name         Dokkan Reddit Color Thing
 // @version      0.2
 // @description  Fixes the Dokkan subreddit in nightmode with RES
 // @author       DrMaple
