@@ -73,6 +73,9 @@
 		'}',
 		'.link.linkflair-official, .link.linkflair-officialb, .link.linkflair-officialj {',
 		'background: linear-gradient(to right,rgba(219,163,0,.5) 0,#000 126px)',
+		'}',
+		'.link.linkflair-technical {',
+		'background: linear-gradient(to right,rgba(75,118,75,.5) 0,#000 126px)',
 		'}'
 
     ].join('\n');
