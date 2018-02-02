@@ -1,6 +1,6 @@
 // ==UserScript==
 // @name         Dokkan Reddit Color Thing
-// @version      0.2
+// @version      0.3
 // @description  Fixes the Dokkan subreddit in nightmode with RES
 // @author       DrMaple
 // @match        https://www.reddit.com/r/DBZDokkanBattle/*
@@ -76,6 +76,9 @@
 		'}',
 		'.link.linkflair-technical {',
 		'background: linear-gradient(to right,rgba(75,118,75,.5) 0,#000 126px)',
+		'}',
+		'.link.linkflair-fluff {',
+		'background: linear-gradient(to right,rgba(219,0,116,.5) 0,#000 126px)',
 		'}'
 
     ].join('\n');
