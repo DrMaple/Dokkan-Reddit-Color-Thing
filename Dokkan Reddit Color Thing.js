@@ -1,6 +1,6 @@
 // ==UserScript==
 // @name         Dokkan Reddit Color Thing
-// @version      0.3
+// @version      0.4
 // @description  Fixes the Dokkan subreddit in nightmode with RES
 // @author       DrMaple
 // @match        https://www.reddit.com/r/DBZDokkanBattle/*
