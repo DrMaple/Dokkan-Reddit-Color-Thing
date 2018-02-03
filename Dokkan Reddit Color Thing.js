@@ -79,6 +79,9 @@
 		'}',
 		'.link.linkflair-fluff {',
 		'background: linear-gradient(to right,rgba(219,0,116,.5) 0,#000 126px)',
+		'}',
+		'.commentarea .md blockquote, .usertext-body .md blockquote {',
+		'background: #191919',
 		'}'
 
     ].join('\n');
